@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Skalken.Sound.Operative.No</title>
+<html>
+<link rel="stylesheet" type="text/css" href="skalken.sou.css">
+<script src="hjemmeside.js"></script>
+</head>
+<body onload="init();">
+
+<h1>Booking Kalender For Skalken Sound Operative</h1>
+<p>For å bokke meg, Send E-post til karl.kristian.skalken.sound.op@gmail.com, <br>
+   Jeg har ikke utsyr til å ta med enda, men jeg kan like velle leies inn som teknikker. <br>
+   Pris 1500</p>
+   
+   <iframe src="https://calendar.google.com/calendar/b/2/embed?height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=68sd608h86illccuq00136ut7c%40group.calendar.google.com&amp;color=%238D6F47&amp;ctz=Europe%2FOslo" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
